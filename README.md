@@ -24,7 +24,7 @@ Service, Operation Manager) with:
   - Manage deployments using Git (CI/CD pipeline)
   
 - Collaborated with a cross-functional team (Git).
-[View Repository »](https://github.com/SufiWafry/idzmirNew.git)
+[View Repository »](https://github.com/asyikin854/idzmirMerge.git)
 
 ### 🗃️ Data Penduduk Kota Tinggi 
 **(Full-Stack Developer & DevOps Engineer)**
