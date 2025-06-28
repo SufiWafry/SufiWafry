@@ -1,8 +1,6 @@
 ## Hi there, my name is Sufi Al Wafry Bin Suryono, can call me Sufi or Wafry. 👋
 
 I'm a Full-Stack Developer specializing in Laravel and web technologies.
-<!--
-
 
 ## 🔧 Tech Stack
 - 🌐 PHP, Laravel, Blade, MySQL, JSON, WordPress
